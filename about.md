@@ -9,7 +9,7 @@ Got a problem with anything I've said? Ways to improve algorithms or code that I
 Let me know, I always enjoy constructive criticism. I also love learning new things, so if you
 have suggestions or requests for areas I should look into, feel free to send them as well. 
 
-Besides coding and math, I enjoy include reading, running, and playing guitar. That about sums me up.
+Besides coding and math, I enjoy reading, running, and playing guitar. That about sums me up.
 
 
 ### Contact me
