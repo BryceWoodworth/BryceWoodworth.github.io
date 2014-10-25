@@ -14,4 +14,4 @@ Besides coding and math, I enjoy reading, running, and playing guitar. That abou
 
 ### Contact me
 
-[Bryce.J.Woodworth@gmail.com](mailto:Bryce.J.Woodworth@gmail.com)
+Bryce.J.Woodworth@gmail.com
