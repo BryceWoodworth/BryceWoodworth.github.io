@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a computer science student with a love of theory, mathematics, and Artificial Intelligence.
+Got a problem with anything I've said? Ways to improve algorithms or code that I've posted?
+Let me know, I always enjoy constructive criticism. I also love learning new things, so if you
+have suggestions or requests for areas I should look into, feel free to send them as well. 
 
-### More Information
+Besides coding and math, I enjoy include reading, running, and playing guitar. That about sums me up.
 
-A place to include any other types of information that you'd like to include about yourself. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Bryce.J.Woodworth@gmail.com](mailto:Bryce.J.Woodworth@gmail.com)
