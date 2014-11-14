@@ -17,7 +17,7 @@ to occurs when these tasks can be generally grouped into the following three cat
 which I will later refer to by number in the interest of space:
 
 1. Interesting tasks that you *want* to do (read a book, write a blog post...)
-2. Shorter, mindless tasks that you *somewhat want* to do (browse facebook, watch a cat video...)
+2. Shorter, mindless tasks that you *somewhat want* to do (facebook, reddit...)
 3. Boring tasks that you *have* to do (write a report, do homework...)
 
 Given these options, we can conclude that both group 1 and 3 are worth doing. However, in general
