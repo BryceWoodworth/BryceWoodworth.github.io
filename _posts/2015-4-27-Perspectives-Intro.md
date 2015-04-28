@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perspectives&: An Introduction
+title: "Perspectives: An Introduction"
 ---
 
 In this post I want to kick off a series on my favorite problem-solving technique: 
