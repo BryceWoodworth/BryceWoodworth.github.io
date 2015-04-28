@@ -13,9 +13,9 @@ be simplified this way, but I will start off with a general overview to give som
 motivation on why it is so useful.
 
 When solving a problem, there is a lot of implicit bias in the way that we look at it.
-!!!! <fix me> If I were to pose problem involving running on a moving walkway,
+If I were to pose problem involving running on a moving walkway,
 we may think a different way than if the problem instead involved two trains moving
-on the same track, or somebody throwing a baseball while skydiving, !!!! even though these
+on the same track, or somebody throwing a baseball while skydiving, even though these
 are all fundamentally <i>the same problem</i>. There is no fundamentally "correct" way
 to think about any particular problem, in the sense that there are many equally valid
 ways of looking at it. However, not all perspectives are equally useful: In many cases
@@ -53,7 +53,7 @@ and each bug would move in a straight line towards the center! Now we just need 
 out how quickly the bugs will be moving and we are done. Finding this is a straightforward
 application of trigonometry, as each bug will move towards its neighbor with speed 1 m/s,
 and this makes a 45-degree angle with the path to the center of the square, so in our new
-perspective, each bug moves 1 m/s * cos(45) = 1/&radic;(2) m/s towards the center. Now all we
+perspective, each bug moves 1 m/s * cos(45) = 1/&radic;2 m/s towards the center. Now all we
 need to do is figure out the distance to the center of the square, which is actually the same
 calculation, so the bugs will both catch and be caught by their neighbors in exactly 1 second!
 
