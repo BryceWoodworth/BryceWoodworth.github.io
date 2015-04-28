@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perspectives, An Introduction
+title: Perspectives&: An Introduction
 ---
 
 In this post I want to kick off a series on my favorite problem-solving technique: 
@@ -31,7 +31,7 @@ their clockwise neighbor with constant velocity, say 1 m/s, and we want to know 
 it will take before the bugs meet in the middle of the square (assume the bugs are
 insignificantly small compared to the size of the square).
 
-![Bugs!](mostlypri.me/images/bugs_1.png "The Four Bugs Problem")
+![Bugs!](http://mostlypri.me/images/bugs_1.png "The Four Bugs Problem")
 
 At first glance this can look like quite an intimidating problem, as the bugs are constantly
 spiraling and changing directions. Before you break out the trigonometry and calculus, 
