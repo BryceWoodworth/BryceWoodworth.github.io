@@ -4,7 +4,7 @@ title: "Perspectives: An Introduction"
 ---
 
 In this post I want to kick off a series on my favorite problem-solving technique: 
-Changing the way you look at a problem. Many commonly-used problem-solving techniques
+Changing the way you look at a problem. Many commonly-used techniques
 across a wide range of applications are essentially instances of perspective shifts,
 but in my opinion the technique doesn't get enough love from problem-solvers. If this
 isn't a core part of your repertoire,
@@ -13,22 +13,24 @@ be simplified this way, but I will start off with a general overview to give som
 motivation on why it is so useful.
 
 When solving a problem, there is a lot of implicit bias in the way that we look at it.
-If I were to pose problem involving running on a moving walkway,
-we may think a different way than if the problem instead involved two trains moving
-on the same track, or somebody throwing a baseball while skydiving, even though these
-are all fundamentally <i>the same problem</i>. There is no fundamentally "correct" way
+If I were to pose a problem involving running on a moving walkway,
+we may think a different way than if the problem instead involved the distance between
+two trains moving
+on the same track, or somebody throwing a baseball while skydiving, even though at a basic
+level these
+are all <i>the same problem</i> of adding velocities. There is no fundamentally "correct"
+way
 to think about any particular problem, in the sense that there are many equally valid
 ways of looking at it. However, not all perspectives are equally useful: In many cases
-a problem that appears intractible in one view because trivial in another. This should
-be a familiar concept to anyone who has used u-substitution to solve a calculus
-problem.
+a problem that appears intractible in one view becomes trivial in another. This should
+be a familiar concept to anyone who has used u-substitution in calculus.
 
 As an example, let's look at the four bugs (or mice, dogs, aardvarks, etc.) problem.
 In this problem,
 there are four bugs that begin on the vertices of a square with side length of r, say one meter.
 They all begin to move towards
 their clockwise neighbor with constant velocity, say 1 m/s, and we want to know how long
-it will take before the bugs meet in the middle of the square (assume the bugs are
+it will take before the bugs meet in the middle of the square (assuming the bugs are
 insignificantly small compared to the size of the square).
 
 ![Bugs!](http://mostlypri.me/images/bugs_1.png "The Four Bugs Problem")
@@ -63,13 +65,14 @@ need to do is figure out the distance to the center of the square, which is actu
 calculation (just replace 1 m/s with 1 m), so the bugs will both catch and be caught by 
 their neighbors in exactly 1 second!
 
-The purpose of this example is to illustrate the immense difference there is in solving
+The purpose of this example is to give a quick illustration of the immense difference
+there is in solving
 problems in different perspectives. Trying to figure out the motion of the spiraling
-insects is doable, but much less wieldy than dealing with the straightforward lines we
+insects is doable, but much more unwieldy than dealing with the straightforward lines we
 get after a frame of reference shift. Try it out for yourself! It is surprising how many
 problems can be simplified by relatively painless operations.
 
-Now that I have (hopefully) convinced you of how awesome this tool is, next time we will
+Now that I have (hopefully) whet your appetite, next time we will
 be diving more into reference frames and some relativity. I hope to see you there!
 
 -Bryce
