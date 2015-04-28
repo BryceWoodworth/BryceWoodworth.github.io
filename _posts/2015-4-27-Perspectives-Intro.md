@@ -21,9 +21,17 @@ level these
 are all <i>the same problem</i> of adding velocities. There is no fundamentally "correct"
 way
 to think about any particular problem, in the sense that there are many equally valid
-ways of looking at it. However, not all perspectives are equally useful: In many cases
+ways of looking at it. If I threw a paper airpline while riding a bicycle on top of a
+moving walkway on a satellite orbiting Venus, what is the velocity of the airplane? There
+is no one correct answer, it depends on your frame of reference. From my point of view,
+the paper airplane isn't moving that quickly, but this is not the case for someone on the 
+surface of Venus, which is again different than what someone on Earth would tell us.
+None of these observers are lying; they all have valid (but different) answers based on
+their perspective on the problem. However, not all perspectives are equally useful: In many cases
 a problem that appears intractible in one view becomes trivial in another. This should
-be a familiar concept to anyone who has used u-substitution in calculus.
+be a familiar concept to anyone who has used u-substitution in calculus (or anyone who has
+tried to calculate the velocity of a paper airplane from the frame of reference of a different
+planet).
 
 As an example, let's look at the four bugs (or mice, dogs, aardvarks, etc.) problem.
 In this problem,
