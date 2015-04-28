@@ -36,26 +36,38 @@ insignificantly small compared to the size of the square).
 At first glance this can look like quite an intimidating problem, as the bugs are constantly
 spiraling and changing directions. Before you break out the trigonometry and calculus, 
 let's first ask ourselves if there is a simpler way of looking at these confounding insects.
-If all of the bugs moved in a straight line towards the middle of the squre, the problem
+If all of the bugs moved in a straight line towards the middle of the square, the problem
 would be easy; it is the spiraling motion that makes this appear difficult.
 How about we look at what happens when we as the observers rotate with the bugs?
 This is a basic example of changing the frame of reference of a problem, and there is
 nothing wrong with looking at the problem in this manner if we can convert all of the motion
 into this new coordinate system. It turns out that since all of the bugs began in a
 symmetric formation and they move in identical manners that maintain this symmetry, the
-overall configuration of the four bugs will always be a square! This is because the distances
+overall configuration of the four bugs will always be a square! It is a square because
+the distances
 between every bug and its pursuer will always be the same as the distances between the
 other bugs and their pursuers, and the angles between bugs will likewise remain stable.
 This is an example of finding invariants in a problem (another cool technique) but for
 our purposes this is important because it means that, if we were to spin our frame of
 reference along with the bugs, we would always observe the bugs in a square formation,
-and each bug would move in a straight line towards the center! Now we just need to figure
-out how quickly the bugs will be moving and we are done. Finding this is a straightforward
+and each bug would move in a straight line towards the center! Now we need to figure
+out how quickly the bugs will be moving. Finding this is a straightforward
 application of trigonometry, as each bug will move towards its neighbor with speed 1 m/s,
 and this makes a 45-degree angle with the path to the center of the square, so in our new
-perspective, each bug moves 1 m/s * cos(45) = 1/&radic;2 m/s towards the center. Now all we
+perspective, each bug moves 1 m/s * cos(45) = 1/&radic;2 m/s towards the center.
+
+![Splat](http://mostlypri.me/images/bugs_2.png "Upon closer inspection...")
+
+Now all we
 need to do is figure out the distance to the center of the square, which is actually the same
-calculation, so the bugs will both catch and be caught by their neighbors in exactly 1 second!
+calculation (just replace 1 m/s with 1 m), so the bugs will both catch and be caught by 
+their neighbors in exactly 1 second!
+
+The purpose of this example is to illustrate the immense difference there is in solving
+problems in different perspectives. Trying to figure out the motion of the spiraling
+insects is doable, but much less wieldy than dealing with the straightforward lines we
+get after a frame of reference shift. Try it out for yourself! It is surprising how many
+problems can be simplified by relatively painless operations.
 
 Now that I have (hopefully) convinced you of how awesome this tool is, next time we will
 be diving more into reference frames and some relativity. I hope to see you there!
